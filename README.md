@@ -19,6 +19,6 @@ This project predicts the number of units sold for a product based on various fe
 To get started, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MONJUR21/LinearRegression.git
+cd LinearRegression
 pip install -r requirements.txt
